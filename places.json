@@ -8,7 +8,7 @@
   {
     "state": "Karnataka",
     "name": "Coorg",
-    "image": "images/coorg.jpg",
+    "image": "coorg.jpg",
     "info": "Hill station famous for coffee plantations and greenery."
   },
   {
@@ -20,7 +20,7 @@
   {
     "state": "Kerala",
     "name": "Alleppey",
-    "image": "images/alleppey.jpg",
+    "image": "alleppey.jpg",
     "info": "Known for temples and houseboat tourism."
   },
   {
@@ -44,7 +44,7 @@
   {
     "state": "Goa",
     "name": "Baga Beach",
-    "image": "images/baga.jpg",
+    "image": "baga.jpg",
     "info": "Popular beach known for nightlife and water sports."
   }
 ]
