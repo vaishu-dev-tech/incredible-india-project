@@ -2,7 +2,7 @@
   {
     "state": "Karnataka",
     "name": "Mysore Palace",
-    "image": "images/mysore.jpg",
+    "image": "mysore.jpg",
     "info": "A grand royal palace known for its architecture and lighting."
   },
   {
@@ -14,7 +14,7 @@
   {
     "state": "Tamil Nadu",
     "name": "Meenakshi Temple",
-    "image": "images/meenakshi.jpg",
+    "image": "meenakshi.jpg",
     "info": "Ancient temple with colorful towers and rich history."
   },
   {
@@ -26,19 +26,19 @@
   {
     "state": "Maharashtra",
     "name": "Gateway of India",
-    "image": "images/gateway.jpg",
+    "image": "gateway.jpg",
     "info": "Famous monument located in Mumbai."
   },
   {
     "state": "Jammu & Kashmir",
     "name": "Dal Lake",
-    "image": "images/dal.jpg",
+    "image": "dal.jpg",
     "info": "Scenic lake with houseboats and mountains."
   },
   {
     "state": "Rajasthan",
     "name": "Hawa Mahal",
-    "image": "images/hawa.jpg",
+    "image": "hawa.jpg",
     "info": "Unique palace known as the Palace of Winds."
   },
   {
