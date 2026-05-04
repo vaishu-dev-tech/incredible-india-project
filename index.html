@@ -78,7 +78,7 @@
 <body>
 
 <header>
-  <h1>🇮🇳 Incredible India</h1>
+  <h1> Incredible India</h1>
   <p>Explore the beauty of India</p>
 </header>
 
@@ -100,7 +100,7 @@
 fetch("places.json")
   .then(res => res.json())
   .then(data => {
-    const container = document.getElementById("places");
+    const container = document.getElementById("places-container");
 
     data.forEach(place => {
       const card = document.createElement("div");
@@ -110,7 +110,7 @@ fetch("places.json")
         <img src="${place.image}" alt="${place.name}">
         <h3>${place.name}</h3>
         <p>${place.state}</p>
-        <p>${place.description}</p>
+        <p>${place.info}</p>
       `;
 
       container.appendChild(card);
