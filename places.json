@@ -1,0 +1,50 @@
+[
+  {
+    "state": "Karnataka",
+    "name": "Mysore Palace",
+    "image": "images/mysore.jpg",
+    "info": "A grand royal palace known for its architecture and lighting."
+  },
+  {
+    "state": "Karnataka",
+    "name": "Coorg",
+    "image": "images/coorg.jpg",
+    "info": "Hill station famous for coffee plantations and greenery."
+  },
+  {
+    "state": "Tamil Nadu",
+    "name": "Meenakshi Temple",
+    "image": "images/meenakshi.jpg",
+    "info": "Ancient temple with colorful towers and rich history."
+  },
+  {
+    "state": "Kerala",
+    "name": "Alleppey",
+    "image": "images/alleppey.jpg",
+    "info": "Known for temples and houseboat tourism."
+  },
+  {
+    "state": "Maharashtra",
+    "name": "Gateway of India",
+    "image": "images/gateway.jpg",
+    "info": "Famous monument located in Mumbai."
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "name": "Dal Lake",
+    "image": "images/dal.jpg",
+    "info": "Scenic lake with houseboats and mountains."
+  },
+  {
+    "state": "Rajasthan",
+    "name": "Hawa Mahal",
+    "image": "images/hawa.jpg",
+    "info": "Unique palace known as the Palace of Winds."
+  },
+  {
+    "state": "Goa",
+    "name": "Baga Beach",
+    "image": "images/baga.jpg",
+    "info": "Popular beach known for nightlife and water sports."
+  }
+]
